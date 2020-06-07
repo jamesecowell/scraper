@@ -1,0 +1,17 @@
+{
+  "name": "scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "champ-table.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase-admin": "^8.12.1",
+    "firebase-functions": "^3.6.1",
+    "puppeteer": "^3.1.0"
+  }
+}
